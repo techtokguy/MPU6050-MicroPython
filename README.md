@@ -1,3 +1,6 @@
+#Before you start reading
+This is just a fork that add package.json, I writed nothing in all of that
+
 # MPU6050-MicroPython
 A very simple library and useful for GY-521 IMU 3-axis Accelerometer/Gyro Module (MPU6050) on ESP32 or ESP8266 using MicroPython
 
